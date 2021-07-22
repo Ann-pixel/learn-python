@@ -157,6 +157,6 @@ def multiply_by_2(li):
 # print(my_dict)  # {1: 2, 2: 4, 3: 6, 4: 8}
 
 # EXERSICE--
-some_list = [char for char in "abcdeace"]
-duplicates = list({char for char in some_list if some_list.count(char) > 1})
-print(duplicates)  # ['a', 'c', 'e']
+# some_list = [char for char in "abcdeace"]
+# duplicates = list({char for char in some_list if some_list.count(char) > 1})
+# print(duplicates)  # ['a', 'c', 'e']
